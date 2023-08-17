@@ -11,5 +11,5 @@ artifacts
 *.ptau
 Q2/contracts/circuits/Multiplier3
 Q2/contracts/circuits/HelloWorld
-Q2/contracts/circuits/Multiplier3_plonk
+Q2/contracts/circuits/_plonk
 Q3/contracts/bonus/SystemOfEquations
